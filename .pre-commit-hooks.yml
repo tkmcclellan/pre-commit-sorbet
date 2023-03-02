@@ -1,0 +1,8 @@
+--
+
+- id: sorbet
+  name: Sorbet Typecheck
+  description: Typecheck Ruby code with Sorbet
+  entry: run-sorbet
+  language: ruby
+  types: ['ruby']
